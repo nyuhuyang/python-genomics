@@ -8,3 +8,9 @@ for x in range(0,10):
 # How to check binary unicode of letter
 for i in range(ord('A'), ord('z')+1):
 	    print("Unicode of",chr(i),"is",bin(ord(chr(i)))
+
+#You can use int and set the base to 2 (for binary):
+
+binary = input('enter a number: ')
+int(binary, 2)
+hex(int(binary, 2))
