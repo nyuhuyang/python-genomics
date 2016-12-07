@@ -76,6 +76,7 @@ Unicode of u is 0b1110101
 Unicode of v is 0b1110110
 Unicode of w is 0b1110111
 Unicode of x is 0b1111000
+
 Unicode of y is 0b1111001
 Unicode of z is 0b1111010
       
