@@ -1,0 +1,10 @@
+# There aresome interesting scripts I wrote while learning python
+
+# How to check binary unicode of number,
+for x in range(0,10):
+	    print("Unicode of",x,"is",bin(ord(str(x))))
+  
+
+# How to check binary unicode of letter
+for i in range(ord('A'), ord('z')+1):
+	    print("Unicode of",chr(i),"is",bin(ord(chr(i)))
